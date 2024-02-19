@@ -1,3 +1,7 @@
+Windows Azure SDK For PHP 0.5.8, 2024-02-19
+
+- Composer Update and Firebase JWT 5 required instead of 4
+
 Windows Azure SDK For PHP 0.5.7, 2017-11-27
 
 - SAS authorization
